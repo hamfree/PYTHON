@@ -1,4 +1,5 @@
 #-*- coding: latin1 -*-
+# pylint: disable=E1601
 import os
 # Definimos una función para imprimir un texto por pantalla
 def saludo():
