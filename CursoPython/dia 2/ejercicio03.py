@@ -1,3 +1,9 @@
+#!/usr/bin/python
+# -*- coding: UTF-8 -*-
+# pylint: disable=E1601
+"""
+
+"""
 dic = {}
 fichero=open('Persona.txt','r')
 for linea in fichero:

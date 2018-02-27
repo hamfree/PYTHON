@@ -3,8 +3,8 @@
 # pylint: disable=E1601
 """
 
-Crea un diccionario en el que almacenes los datos de varias personas usando el dni como clave y  como valor, una lista
-con el resto de datos (usa como base el del ejercicio 1)
+Crea un diccionario en el que almacenes los datos de varias personas usando el dni como clave y  como 
+valor, una lista con el resto de datos (usa como base el del ejercicio 1)
 
 """
 # Muestra de datos
