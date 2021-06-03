@@ -3,7 +3,7 @@
 import os
 # Definimos una función para imprimir un texto por pantalla
 def saludo():
-   print 'hola mundo'
+   print('hola mundo')
 
 def sl2():
     print '\n\n'
